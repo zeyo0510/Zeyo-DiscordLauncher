@@ -1,0 +1,18 @@
+{
+  "window":
+  {
+    "wnd_id": "discordapp",
+    "wnd_url": "frames/index.html",
+    "wnd_theme": "dark",
+    "wnd_darkSidebar": false,
+    "wnd_useSystemTheme": 1
+
+  },
+  "webview":
+  {
+    "wv_partition": "part1",
+    "wv_origin": "https://discord.com",
+    "wv_all": "*",
+    "wv_application": "app"
+  }
+}

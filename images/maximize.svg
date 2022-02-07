@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="44" viewBox="00 00 56 44">
+  <defs>
+    <path id="obj1" d="
+      M 00.00 00.00
+      L 10.00 00.00
+      L 10.00 10.00
+      L 00.00 10.00
+      L 00.00 00.00
+      Z
+
+      M 01.00 01.00
+      L 09.00 01.00
+      L 09.00 09.00
+      L 01.00 09.00
+      L 01.00 01.00
+      Z
+    "/>
+  </defs>
+  <use x="09" y="06" fill="#b9bbbf" fill-rule="evenodd" stroke="none" xlink:href="#obj1"/>
+  <use x="37" y="06" fill="#dcddde" fill-rule="evenodd" stroke="none" xlink:href="#obj1"/>
+  <use x="09" y="28" fill="#4f5660" fill-rule="evenodd" stroke="none" xlink:href="#obj1"/>
+  <use x="37" y="28" fill="#2e3338" fill-rule="evenodd" stroke="none" xlink:href="#obj1"/>
+</svg>

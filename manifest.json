@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "Discord Launcher",
+  "description": "A portable application",
+  "icons":
+  {
+    "256": "app.png"
+  },
+  "version": "2022.02.08",
+  "app":
+  {
+    "background":
+    {
+      "scripts": [ "background.js" ]
+    }
+  },
+  "permissions":
+  [
+    "webview",
+    "audioCapture",
+    "videoCapture",
+    "browser",
+    "fullscreen",
+    "notifications"
+  ],
+  "externally_connectable":
+  {
+    "matches": [ "https://discord.com/*" ]
+  }
+}
